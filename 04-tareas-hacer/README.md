@@ -14,4 +14,3 @@ node app.js
 ```
 Para que eso funcione, recuerden que deben de ejecutar ese comando en el mismo directorio donde se encuentra el ```package.json```
 
-image.png
